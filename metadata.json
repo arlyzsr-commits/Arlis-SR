@@ -1,0 +1,6 @@
+{
+  "name": "LAPOOR",
+  "description": "Aplikasi Laporan Progress Pekerjaan Proyek berbasis foto real-time dari kamera handphone",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
